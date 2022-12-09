@@ -1,0 +1,145 @@
+/* Header */
+.navbar-brands {
+    font-family: 'Grenze';
+    font-weight: 400;
+    font-size: 28px;
+    color: #000000;
+    text-decoration: none
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navbar-brand {
+    position: absolute;
+    width: 49px;
+    height: 115px;
+    left: 0px;
+    top: 0px;
+    
+}
+
+.nav-item {
+    font-family: 'Grenze';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 47px;
+    margin-top: 19px;
+    color: #000000;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #036635 !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+.nav-link:hover {
+    color: #036635 !important;
+}
+/* Tutup Header */
+
+body {
+    background-color: #B4C7B2;
+    background-repeat: no-repeat;
+}
+
+/* Hero Section */
+.img-1 {
+    margin-top: 100px;
+    margin-left: 67px;
+    margin-right: 67px;
+}
+
+.text-center {
+    margin-top: 60px;
+    margin-left: 350px;
+    margin-right: 0px;
+}
+
+.text-centers {
+    margin-left: 350px;
+}
+/* Tutup Hero Section */
+
+/* Popular Products */
+.popular-products {
+    padding-top: 50px;
+    padding-bottom: 36px;
+    background: #FFFFFF
+
+}
+
+.products-img {
+    padding: 0.5rem;
+    border-radius: 8px 8px;
+    background:#f6fafd ;
+    background-repeat: no-repeat;
+
+    transition: all 0.3s ease;
+} 
+
+/* Tutup Popular Products */
+.testimonial {
+    background-color: #FFFFFF;
+    background-repeat: no-repeat;
+    margin-bottom: 60px;
+}
+/* Testimonial */
+.
+/* Tutup Testimonial */
+
+
+/* Footer */
+.footer {
+    margin-bottom: 50px;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:#B4C7B2 ;
+}
+
+.footer h2 {
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 36px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.footer h5 {
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 18px;
+color: #000000;
+}
+
+.footer p {
+font-family: 'Poppins';
+font-weight: 300;
+font-size: 16px;
+color: #000000;  
+}
+
+.footer-small {
+    background-color:#036635;
+    text-align: center;
+}
+
+.footer-small p {
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 16px;
+margin-top:30px;
+color: #FFFFFF;     
+}
+
+.footer-small a {
+    font-weight:500;
+    font-size: 16px;
+    text-decoration: none;
+    color: #000000;
+}
+/* Tutup Footer */
+
